@@ -1,6 +1,6 @@
 # NFT Marketplace DApp
 
-Video Demo - https://youtu.be/mWMPKxrRE8o?feature=shared
+Video Demo - 
 
 ## Technology Stack & Tools
 
@@ -10,8 +10,8 @@ Video Demo - https://youtu.be/mWMPKxrRE8o?feature=shared
 - Hardhat
 - Ethers.js
 - IPFS
-- Infura
-- Polygon Mumbai
+- Alchemy
+- Polygon Amoy
 
 ## Setting Up
 ### 1. Clone/Download the Repository
